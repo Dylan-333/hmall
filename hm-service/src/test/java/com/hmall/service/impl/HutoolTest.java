@@ -29,4 +29,10 @@ public class HutoolTest {
         String id;
         String name;
     }
+
+    @Data
+    static class User3 {
+        String X;
+        String Y;
+    }
 }
