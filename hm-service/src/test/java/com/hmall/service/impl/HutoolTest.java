@@ -34,5 +34,23 @@ public class HutoolTest {
     static class User3 {
         String X;
         String Y;
+        family f;
+        static class family{
+            String father;
+            String mother;
+            Object data;
+
+            public family(String s1, String s2, Object o) {
+            }
+        }
+    }
+
+    @Test
+    void test1(){
+        User3 u1 = new User3();
+        u1.setX("Alice");
+        u1.setY("Bob");
+        u1.setF(new User3.family("s1","s2",null));
+        System.out.println(u1);
     }
 }
