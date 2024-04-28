@@ -37,6 +37,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;JUnit.HutoolTest.name.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HutoolTest.test1.executor&quot;: &quot;Run&quot;,
     &quot;Maven.hm-service [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.hmall [clean].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -122,7 +123,8 @@
       <updated>1714058583959</updated>
       <workItem from="1714058586565" duration="781000" />
       <workItem from="1714145006421" duration="2466000" />
-      <workItem from="1714231037788" duration="349000" />
+      <workItem from="1714231037788" duration="655000" />
+      <workItem from="1714317049322" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="null">
       <option name="closed" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714146242429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="null">
+      <option name="closed" value="true" />
+      <created>1714231681017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714231681017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

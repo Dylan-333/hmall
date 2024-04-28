@@ -53,4 +53,13 @@ public class HutoolTest {
         u1.setF(new User3.family("s1","s2",null));
         System.out.println(u1);
     }
+
+    @Test
+    void test2(){
+        User3 u1 = new User3();
+        u1.setX("Alice");
+        u1.setY("Bob");
+        u1.setF(new User3.family("s1","s2",null));
+        System.out.println(u1);
+    }
 }
